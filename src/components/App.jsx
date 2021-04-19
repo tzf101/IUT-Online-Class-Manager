@@ -26,13 +26,13 @@ function App() {
                 currentClassTime={links[week][index].duration}
                 currentClassLink={links[week][index].link}
 
-                upcomingClassName={links[week][index].class}
-                upcomingClassTime={links[week][index].duration}
-                upcomingClassLink={links[week][index].link}
+                upcomingClassName={links[week][index+1].class}
+                upcomingClassTime={links[week][index+1].duration}
+                upcomingClassLink={links[week][index+1].link}
 
-                upcomingClassName2={links[week][index].class}
-                upcomingClassTime2={links[week][index].duration}
-                upcomingClassLink2={links[week][index].link}
+                upcomingClassName2={links[week][index+2].class}
+                upcomingClassTime2={links[week][index+2].duration}
+                upcomingClassLink2={links[week][index+2].link}
             />
             <External />
             <Footer />
