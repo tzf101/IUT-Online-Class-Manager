@@ -101,7 +101,14 @@ const links = [
         week: "Monday",
         duration: "N/A",
         link: "https://codeforces.com/"
-    }],
+    },
+    {
+        class: "No Class today! Solve some problems at codeforces!",
+        end: 2359,
+        week: "Sunday",
+        duration: "N/A",
+        link: "https://codeforces.com/"
+    },],
     //Tuesday
     [{
         class: "CSE 4305 - Md. Hamjajul Ashmafee",
@@ -183,13 +190,6 @@ const links = [
         link: "https://codeforces.com/"
     },
         //Class Finished for Wednesday
-    {
-        class: "No Class today! Solve some problems at codeforces!",
-        end: 2359,
-        week: "Wednesday",
-        duration: "N/A",
-        link: "https://codeforces.com/"
-    },
     {
         class: "No Class today! Solve some problems at codeforces!",
         end: 2359,
@@ -299,13 +299,6 @@ const links = [
         link: "https://codeforces.com/"
     },
         //Class Finished for Thursday
-    {
-        class: "No Class today! Solve some problems at codeforces!",
-        end: 2359,
-        week: "Friday",
-        duration: "N/A",
-        link: "https://codeforces.com/"
-    },
     {
         class: "No Class today! Solve some problems at codeforces!",
         end: 2359,
