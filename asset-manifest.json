@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/IUT-Online-Class-Manger/static/js/main.04c3b788.chunk.js",
+    "main.js.map": "/IUT-Online-Class-Manger/static/js/main.04c3b788.chunk.js.map",
+    "runtime-main.js": "/IUT-Online-Class-Manger/static/js/runtime-main.e97e907e.js",
+    "runtime-main.js.map": "/IUT-Online-Class-Manger/static/js/runtime-main.e97e907e.js.map",
+    "static/js/2.90f951f6.chunk.js": "/IUT-Online-Class-Manger/static/js/2.90f951f6.chunk.js",
+    "static/js/2.90f951f6.chunk.js.map": "/IUT-Online-Class-Manger/static/js/2.90f951f6.chunk.js.map",
+    "index.html": "/IUT-Online-Class-Manger/index.html",
+    "static/js/2.90f951f6.chunk.js.LICENSE.txt": "/IUT-Online-Class-Manger/static/js/2.90f951f6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e97e907e.js",
+    "static/js/2.90f951f6.chunk.js",
+    "static/js/main.04c3b788.chunk.js"
+  ]
+}
