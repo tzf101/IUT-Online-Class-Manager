@@ -5,7 +5,7 @@ function Footer() {
     return (
         <footer className="container">
             <p className="float-end">
-                <a href="https://github.com/Tariquzzaman-faisal/IUT-Online-Class-Manger"><i class="fab fa-github"></i> View on Github</a>
+                <a href="https://github.com/Tariquzzaman-faisal/IUT-Online-Class-Manger" target="_blank" rel="noopener noreferrer"><i class="fab fa-github"></i> View on Github</a>
             </p>
             <p>IUT CSE ⓒ {year}</p>
         </footer>

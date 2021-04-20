@@ -8,7 +8,7 @@ function Header() {
             >
                 {/* background-color: #e3f2fd */}
                 <div className="container-fluid">
-                    <a className="navbar-brand" href="#">
+                    <a className="navbar-brand" href="https://www.iutoic-dhaka.edu/"  target="_blank" rel="noopener noreferrer">
                         <i className="fas fa-school"></i> IUT
                     </a>
                     <button
@@ -31,7 +31,7 @@ function Header() {
                                 <a
                                     className="nav-link active"
                                     aria-current="page"
-                                    href="https://ibb.co/QHVvzZ7"
+                                    href="https://ibb.co/QHVvzZ7"  target="_blank" rel="noopener noreferrer"
                                 >
                                     <i className="far fa-list-alt"></i> Routine
                                 </a>
@@ -39,7 +39,7 @@ function Header() {
                             <li className="nav-item">
                                 <a
                                     className="nav-link"
-                                    href="https://cse.iutoic-dhaka.edu/academics-1/calendar"
+                                    href="https://cse.iutoic-dhaka.edu/academics-1/calendar"  target="_blank" rel="noopener noreferrer"
                                 >
                                     <i className="fas fa-calendar-alt"></i>{" "}
                                     Academic Calender
@@ -48,7 +48,7 @@ function Header() {
                             <li className="nav-item">
                                 <a
                                     className="nav-link"
-                                    href="https://drive.google.com/drive/u/4/folders/18Clzie87ts0ZWtLY45YxDf2vfqdnngmc"
+                                    href="https://drive.google.com/drive/u/4/folders/18Clzie87ts0ZWtLY45YxDf2vfqdnngmc"  target="_blank" rel="noopener noreferrer"
                                 >
                                     <i className="fab fa-google-drive"></i>{" "}
                                     Google Drive
@@ -57,7 +57,7 @@ function Header() {
                             <li className="nav-item">
                                 <a
                                     className="nav-link"
-                                    href="https://docs.google.com/spreadsheets/d/1MujdXOIR6vbp5fMicqTVta-Rj0hwiG44P_uAkbFD35s/edit#gid=0"
+                                    href="https://docs.google.com/spreadsheets/d/1MujdXOIR6vbp5fMicqTVta-Rj0hwiG44P_uAkbFD35s/edit#gid=0"  target="_blank" rel="noopener noreferrer"
                                 >
                                     <i className="fas fa-phone-square-alt"></i>{" "}
                                     Contact Students

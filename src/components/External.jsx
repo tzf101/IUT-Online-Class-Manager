@@ -13,7 +13,7 @@ function External() {
                         <p>
                             <a
                                 className="btn btn-secondary"
-                                href="https://www.youtube.com/channel/UC1t6b94H0ix0yDwuo1CDTZw/playlists"
+                                href="https://www.youtube.com/channel/UC1t6b94H0ix0yDwuo1CDTZw/playlists" target="_blank" rel="noopener noreferrer"
                             >
                                 Visit &raquo;
                             </a>
@@ -26,7 +26,7 @@ function External() {
                         <p>
                             <a
                                 className="btn btn-secondary"
-                                href="https://classroom.google.com"
+                                href="https://classroom.google.com" target="_blank" rel="noopener noreferrer"
                             >
                                 Visit &raquo;
                             </a>
@@ -37,7 +37,7 @@ function External() {
                         <h2>IUT Website</h2>
                         <p>The official website of IUT.</p>
                         <p>
-                            <a className="btn btn-secondary" href="#">
+                            <a className="btn btn-secondary" href="https://www.iutoic-dhaka.edu/"  target="_blank" rel="noopener noreferrer">
                                 Visit &raquo;
                             </a>
                         </p>
