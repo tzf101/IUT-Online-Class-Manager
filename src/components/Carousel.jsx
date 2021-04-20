@@ -3,7 +3,7 @@ import React from "react";
 function Carousel(props) {
     return (
         <div>
-            <div id="myCarousel" className="carousel slide" data-bs-ride="carousel">
+            <div id="myCarousel" className="carousel slide" data-bs-ride="carousel"  data-bs-interval="20000">
                 <div className="carousel-indicators">
                     <button
                         type="button"
@@ -39,7 +39,7 @@ function Carousel(props) {
                                         className="btn btn-lg btn btn-light"
                                         href={props.currentClassLink}
                                     >
-                                        Join Class
+                                        {props.currentButtonText}
                                     </a>
                                 </p>
                             </div>
@@ -56,7 +56,7 @@ function Carousel(props) {
                                         className="btn btn-lg btn btn-light"
                                         href={props.upcomingClassLink}
                                     >
-                                        Join Class
+                                        {props.upcomingButtonText}
                                     </a>
                                 </p>
                             </div>
@@ -73,7 +73,7 @@ function Carousel(props) {
                                         className="btn btn-lg btn btn-light"
                                         href={props.upcomingClassLink2}
                                     >
-                                        Join Class
+                                        {props.upcomingButtonText2}
                                     </a>
                                 </p>
                             </div>
